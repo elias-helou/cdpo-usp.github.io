@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Apresentando o Curso"
+date:  2024-11-22 15:00:00 -0300
+categories: Novidade
+---
+
+<p style='text-align: justify;text-justify: inter-word;'>
+É com muita alegria e entusiasmo que apresentamos o curso <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Nos <i>posts</i> subsequentes falaremos mais sobre os professores e sobre o conteúdo, agora é o momento de falar em linhas gerais sobre os temas que estudaremos e as aplicações a que o curso se direciona.
+</p>
+
+<h2>1. Fundamentos</h2>
+
+<h3>1.1. Estatística</h3>
+
+<h3>1.2. Otimização</h3>
+
+<p style='text-align: justify;text-justify: inter-word;'>
+Otimização Matemática é um ramo da matemática aplicada que dedica-se a aprimorar decisões com base em um objetivo e tendo em mente restrições às quais se sujeitam nossas decisões. Tanto o objetivo como as restrições são modelados matematicamente e isso permite o uso de técnicas matemático-computacionais para a tomada de decisão.<br><br>
+
+É comum dividirmos o estudo de otimização matemática em otimização contínua e otimização discreta, pois as técnicas numéricas usadas em cada caso são fundamentalmente distintas. No nosso curso, seguiremos essa abordagem, de modo que você sairá com uma boa fundamentação para começar a resolver uma ampla gama de problemas práticos de otimização.
+</p>
+
+<h2>2. Aplicações</h2>
+
+<h3>2.1. Ciência de Dados</h3>
+
+<h3>2.2. Pesquisa Operacional</h3>

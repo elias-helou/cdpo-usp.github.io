@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Inscrições"
+date:  2024-11-22 15:20:00 -0300
+categories: Novidade
+---
+
+<p style='text-align: justify;text-justify: inter-word;'>
+É com muita alegria e entusiasmo que apresentamos o curso <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Neste <i>post</i> Falaremos sobre como se inscrever.
+</p>
+
+<h2>1. O Sistema Apolo</h2>
+
+<h2>2. Valores</h2>
+
+<h2>3. Bolsas</h2>
