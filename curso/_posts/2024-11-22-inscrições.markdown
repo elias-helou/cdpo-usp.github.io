@@ -6,40 +6,45 @@ categories: Novidade
 ---
 
 <p style='text-align: justify;text-justify: inter-word;'>
-É com muita alegria e entusiasmo que apresentamos o curso <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Neste <i>post</i> Falaremos sobre como se inscrever.
+Neste <i>post</i> você encontra as instruções sobre como se inscrever no curso <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>.<br><br>
+
+Leia com atenção todas as informações da presente página antes de começar o processo de inscrição.
 </p>
 
 <h2>1. O Sistema Apolo</h2>
 
-Mais informações sobre o curso encontram-se no Sistema Apolo<br>
-[Mais informações sobre o curso](https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=550300012&cod_edicao=24001&numseqofeedi=1)
+<p style='text-align: justify;text-justify: inter-word;'>
+    A USP criou o sistema <a href='https://uspdigital.usp.br/apolo/' target="_blank">Apolo</a> para centralizar as informações sobre atividades de extensão (por exemplo, cursos de atualização) oferecidas pela universidade. As infomações sobre o curso  <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong> também encontram-se no Sistema Apolo, no link a seguir:<br>
+    <a href='https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=550300012&cod_edicao=24001&numseqofeedi=1' target="_blank">Mais informações sobre o curso</a><br><br>
 
-As inscrições são feitas pelo endereço<br>
-[Faça sua inscrição aqui](https://uspdigital.usp.br/apolo/inscricaoPublicaFormCursosOferecidosListar?oriins=W)
-
+    As inscrições deverão ser feitas entre os dias 1/12/2024 e 28/02/2025 através do link abaixo. Após clicar no link, escolha <strong>Instituto de Ciências Matemáticas e de Computação (São Carlos)</strong> no menu.<br>
+    <a href='https://uspdigital.usp.br/apolo/inscricaoPublicaFormCursosOferecidosListar?oriins=W' target="_blank">Clique para abrir o site de inscrição</a>
+</p>
 
 <h2>2. Valores</h2>
 
 <p>Valor da inscrição: R$ 50,00.</p>
 <p>Valor da matrícula: R$ 129,00.</p>
 <p>Valor do curso: R$ 1.161,00 para pagamento em até 3 parcelas.</p>
-</section>  
+<!-- </section>   -->
 
-<section class="enrollment">
+<!-- <section class="enrollment"> -->
 <h3>Conta para pagamento da inscrição (R$ 50,00)</h3>
-<p>Banco 104 Ag 0348 Conta 5660-7 - FIPAI CURSO AT ESTATISTIC          </p>
+<p>Banco 104 Ag 0348 Conta 5660-7 - FIPAI CURSO AT ESTATISTIC</p>
 <p>Chave pix: 1847d12f-056f-41d9-acf5-4d1f3ee02ee0</p>
-<div class="image-container">
-    <img src="https://github.com/elias-helou/Site-curso/blob/main/old/QRcode.png" 
+<div style='text-align: center'>
+    <img src="{{site.url}}/assets/QRcode.png" 
          alt="QRcode" 
-         style="text-align: left; width: 5cm;">
-</div>  </section> 
+         style="width: 5cm;">
+</div> 
+<!-- </section>  -->
 
 <h2>3. Bolsas (isenções)</h2>
 
 Serão concedidas bolsas a pessoas em condição de vulnerabilidade socioeconômica, em quantidade equivalente a 10% das matrículas efetivadas, para o pagamento da matrícula e valor do curso. A concessão da bolsa não isenta o pagamento da taxa de inscrição, no valor de R$ 50,00.
 
 ### Critérios para classificação:
+
 1. **Situação financeira e socioeconômica**  
 2. **Mérito técnico, científico e acadêmico**
 
