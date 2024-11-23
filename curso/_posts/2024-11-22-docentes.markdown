@@ -6,7 +6,7 @@ categories: Novidade
 ---
 
 <p style='text-align: justify;text-justify: inter-word;'>
-É com muita alegria e entusiasmo que apresentamos o curso <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Neste <i>post</i> apresentarmos os professores que ministrarão as disciplinas. Ambos são do <a href='https://www.icmc.usp.br'>ICMC-USP</a>.
+Neste <i>post</i> apresentarmos os professores que ministrarão as disciplinas do curso <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Ambos são do <a href='https://www.icmc.usp.br'>ICMC-USP</a>.
 </p><br>
 
 <h2>Cibele Maria Russo Novelli</h2>
@@ -21,6 +21,7 @@ Bacharel em Matemática Aplicada e Computação Científica (2004), mestre em Ci
 <div >
     <img src='{{site.url}}/assets/Elias.png' style='width:25%; float: left; border-radius:50%; padding-right: 1em;'>
     <div style='text-align: justify;text-justify: inter-word;'>
-        Possui graduação em Matemática Aplicada e Computacional pela Universidade Estadual de Campinas (2001), mestrado em Matemática Aplicada pela Universidade Estadual de Campinas (2005) e doutorado em Matemática Aplicada pela Universidade Estadual de Campinas (2009). Atualmente é professor associado ref. MS5.2 da Universidade de São Paulo. Tem experiência na área de Matemática, com ênfase em Problemas Inversos, atuando principalmente nos seguintes temas: métodos iterativos, tomografia por emissão, projection methods, convex feasibility e constrained optimization. É bolsista de produtividade em pesquisa nível 1C do CNPq. 
+        Possui graduação em Matemática Aplicada e Computacional pela Universidade Estadual de Campinas (2001), mestrado em Matemática Aplicada pela Universidade Estadual de Campinas (2005) e doutorado em Matemática Aplicada pela Universidade Estadual de Campinas (2009). Atualmente é professor associado ref. MS5.2 da Universidade de São Paulo. Tem experiência na área de Matemática, com ênfase em Problemas Inversos, atuando principalmente nos seguintes temas: métodos iterativos, tomografia por emissão, métodos de projeção, viabilidade convexa e otimização com restrições. É bolsista de produtividade em pesquisa nível 1C do CNPq. 
     </div>
 </div>
+
