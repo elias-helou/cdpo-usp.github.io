@@ -13,4 +13,18 @@ categories: Novidade
 
 <h2>2. Valores</h2>
 
+<h2>Valores</h2>
+<p>Valor da inscrição: R$ 50,00.</p>
+<p>Valor da matrícula: R$ 129,00.</p>
+<p>Valor do curso: R$ 1.161,00 para pagamento em até 3 parcelas.</p>
+</section>  
+
+<section class="enrollment">
+<h2>Conta para pagamento da inscrição (R$ 50,00)</h2>
+<p>Banco 104 Ag 0348 Conta 5660-7 - FIPAI CURSO AT ESTATISTIC          </p>
+<p>Chave pix: 1847d12f-056f-41d9-acf5-4d1f3ee02ee0</p>
+<div class="image-container" >
+<img src="https://github.com/elias-helou/Site-curso/blob/main/old/QRcode.png" alt="QRcode" style="text-align: left;">
+</div>   </section> 
+
 <h2>3. Bolsas</h2>
