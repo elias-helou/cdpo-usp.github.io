@@ -13,14 +13,13 @@ categories: Novidade
 
 <h2>2. Valores</h2>
 
-<h2>Valores</h2>
 <p>Valor da inscrição: R$ 50,00.</p>
 <p>Valor da matrícula: R$ 129,00.</p>
 <p>Valor do curso: R$ 1.161,00 para pagamento em até 3 parcelas.</p>
 </section>  
 
 <section class="enrollment">
-<h2>Conta para pagamento da inscrição (R$ 50,00)</h2>
+<h3>Conta para pagamento da inscrição (R$ 50,00)</h3>
 <p>Banco 104 Ag 0348 Conta 5660-7 - FIPAI CURSO AT ESTATISTIC          </p>
 <p>Chave pix: 1847d12f-056f-41d9-acf5-4d1f3ee02ee0</p>
 <div class="image-container">
@@ -29,4 +28,26 @@ categories: Novidade
          style="text-align: left; width: 5cm;">
 </div>  </section> 
 
-<h2>3. Bolsas</h2>
+<h2>3. Bolsas (isenções)</h2>
+
+Serão concedidas bolsas a pessoas em condição de vulnerabilidade socioeconômica, em quantidade equivalente a 10% das matrículas efetivadas, para o pagamento da matrícula e valor do curso. A concessão da bolsa não isenta o pagamento da taxa de inscrição, no valor de R$ 50,00.
+
+### Critérios para classificação:
+1. **Situação financeira e socioeconômica**  
+2. **Mérito técnico, científico e acadêmico**
+
+A avaliação será realizada pela coordenação do curso.  
+
+Para análise de mérito, considerar-se-ão os documentos anexados ao processo de seleção.  
+
+Para avaliação socioeconômica, serão analisados:  
+- Holerite ou outros comprovantes de renda do Grupo Familiar  
+- Certidão de nascimento dos menores de 21 anos do Grupo Familiar  
+- Comprovante de aluguel ou de prestação de financiamento de moradia  
+- Declaração de Imposto de Renda com recibo de entrega ou declaração de isenção  
+- Comprovante de gastos com despesas médicas contínuas de membros do Grupo Familiar  
+
+Em caso de empate, levar-se-ão em conta os critérios da política de isenção de 24/04/2020 da Congregação ICMC.  
+
+> **Nota:** O(a) candidato(a) que se utilizar de fraude para obtenção de isenção terá sua matrícula cancelada.
+
