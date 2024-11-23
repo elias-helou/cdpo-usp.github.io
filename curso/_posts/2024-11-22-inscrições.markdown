@@ -13,7 +13,6 @@ categories: Novidade
 
 <h2>2. Valores</h2>
 
-<h2>Valores</h2>
 <p>Valor da inscrição: R$ 50,00.</p>
 <p>Valor da matrícula: R$ 129,00.</p>
 <p>Valor do curso: R$ 1.161,00 para pagamento em até 3 parcelas.</p>
