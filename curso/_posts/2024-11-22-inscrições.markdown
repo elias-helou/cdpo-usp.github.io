@@ -11,6 +11,13 @@ categories: Novidade
 
 <h2>1. O Sistema Apolo</h2>
 
+Mais informações sobre o curso encontram-se no Sistema Apolo:  
+[Mais informações sobre o curso](https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=550300012&cod_edicao=24001&numseqofeedi=1)
+
+As inscrições são feitas pelo endereço:  
+[Faça sua inscrição aqui](https://uspdigital.usp.br/apolo/inscricaoPublicaFormCursosOferecidosListar?oriins=W)
+
+
 <h2>2. Valores</h2>
 
 <p>Valor da inscrição: R$ 50,00.</p>
