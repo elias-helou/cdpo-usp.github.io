@@ -27,6 +27,6 @@ categories: Novidade
     <img src="https://github.com/elias-helou/Site-curso/blob/main/old/QRcode.png" 
          alt="QRcode" 
          style="text-align: left; width: 5cm;">
-</div>>   </section> 
+</div>  </section> 
 
 <h2>3. Bolsas</h2>
